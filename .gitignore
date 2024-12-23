@@ -1,3 +1,4 @@
 node_modules
 .env
 conexao_pdv.js
+.vercel
